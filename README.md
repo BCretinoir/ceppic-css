@@ -16,3 +16,6 @@ class à chaque espace créer une nouvelle classe
 mdnweb docs
 
 id = permet de baliser un élément unique
+
+a:visited = lien visité 
+a:hover = permet de survoler un élément

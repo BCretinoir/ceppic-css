@@ -6,6 +6,7 @@
 body {
   color: darkred;
   background-color: rgba(100, 100, 97, 0.623);
+  font-family:'Roboto', sans-serif;
 }
 header {
   color: dodgerblue;
@@ -34,8 +35,16 @@ a {
   text-decoration: none;
 }
 a:visited {
-color : black;
-text-decoration: underline;
-
+  color: black;
+  text-decoration: underline;
 }
 
+a:hover {
+  color: crimson;
+  background-color: blue;
+}
+
+p:hover {
+  color: aquamarine;
+  background-color: blueviolet;
+}
