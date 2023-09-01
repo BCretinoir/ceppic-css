@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: darkred;
+  background-color: rgba(100, 100, 97, 0.623);
+}
+header {
+  color: dodgerblue;
+  background-color: aquamarine;
+}
+p {
+  color: black;
+}
+
+h2 {
+  color: blue;
+}
+.titre {
+  color: indigo;
+}
+.titre2 {
+  border-bottom: 1px solid rgb(42, 28, 121)
+
+}
